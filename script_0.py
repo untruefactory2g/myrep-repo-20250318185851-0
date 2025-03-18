@@ -1,1 +1,1 @@
-20print(f"Random number: 37")
+21
